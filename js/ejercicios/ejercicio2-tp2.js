@@ -1,4 +1,4 @@
-let nota = parseInt(prompt('Ingrese su edad'));
+let nota = parseInt(prompt('Ingrese una nota'));
 
 console.log(nota);
 
